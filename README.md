@@ -21,10 +21,10 @@ Below is the complete list of available example files.
 ```
 2. Goto workspace/getting-started-embassy-stm32f401re
 3. Run [by appropriately changing the name of the .rs file you intend to run]:
-	```bash
-	cargo run --release --bin _00_blinky_led
-```
+	`cargo run --release --bin _00_blinky_led`
+
  
-   
+
+
 
 

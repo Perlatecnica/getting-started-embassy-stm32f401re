@@ -20,8 +20,8 @@ Below is the complete list of available example files.
    git clone https://github.com/Perlatecnica/getting-started-embassy-stm32f401re.git
 ```
 2. Goto workspace/getting-started-embassy-stm32f401re
-3. Run [by appropriately changing the name of the .rs file you intend to run]:
-	`cargo run --release --bin _00_blinky_led`
+3. Run `cargo run --release --bin _00_blinky_led` by appropriately changing the name of the .rs file you intend to run
+	
 
  
 
